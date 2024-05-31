@@ -1,3 +1,4 @@
+> This repo is just a dummy. Submit issues [in monorepo](https://github.com/tolgee/tolgee-js) or [check the source code here](https://github.com/tolgee/tolgee-js/tree/main/testapps/vue).
 # vue
 
 This template should help get you started developing with Vue 3 in Vite.
